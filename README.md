@@ -1,5 +1,10 @@
 # GeradorDeGrafos
 
+Atividade 3 implementada pela dupla:
+
+Pedro Henrique Weber Carvalhaes
+Ralson Rwan dos Santos Lima
+
 ## Como Usar
 Para executar o código, é altamente recomendável usar o IntelliJ IDEA, um poderoso ambiente de desenvolvimento integrado (IDE) para Java. O IntelliJ oferece uma maneira conveniente de compilar, executar e depurar seu código Java.
 

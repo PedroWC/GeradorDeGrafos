@@ -1,6 +1,10 @@
+/*
+Pedro Henrique Weber Carvalhaes
+Ralson Rwan dos Santos Lima
+ */
+
 import de.vandermeer.asciitable.AsciiTable;
 import de.vandermeer.skb.interfaces.transformers.textformat.TextAlignment;
-
 import java.util.*;
 
 class Grafo {
