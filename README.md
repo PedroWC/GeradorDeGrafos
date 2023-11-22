@@ -2,7 +2,7 @@
 
 Atividade 3 implementada pela dupla:
 
-Pedro Henrique Weber Carvalhaes
+Pedro Henrique Weber Carvalhaes<br>
 Ralson Rwan dos Santos Lima
 
 ## Como Usar
